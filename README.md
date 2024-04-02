@@ -1,5 +1,6 @@
 # Hallucination-Detection-in-Contextual-Question-Answering
-This is project aimed at detecting hallucinations in contextual question answering LLM's.
+![image](https://github.com/Shravani-0/Hallucination-Detection-in-Contextual-Question-Answering/assets/89658242/77f00b9c-6c29-4ef7-ae89-ee802873dfd8)
+
 # Overview
 This project focuses on developing a system for detecting hallucinations in contextual question answering (CQA) systems. 
 What are Hallucinations?
